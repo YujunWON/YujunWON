@@ -3,6 +3,8 @@
 
 - 📫 How to reach me **yujunwon27@gmail.com**
 
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FYujunWON&count_bg=%23C93F07&title_bg=%23BE0707&icon=&icon_color=%23000000&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
